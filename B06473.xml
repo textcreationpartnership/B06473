@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vox civitatis: or, Londons call to her natural and adopted children; exciting them to her spedy reedification.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06473</idno>
+            <idno type="STC">Wing V714</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[64]</idno>
+            <idno type="EEBO-CITATION">99886885</idno>
+            <idno type="PROQUEST">ocm99886885</idno>
+            <idno type="VID">181394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181394)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[65])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vox civitatis: or, Londons call to her natural and adopted children; exciting them to her spedy reedification.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B[ridgit]. W[ood]. in Little S. Bartholomews Court in West-Smithfield,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "What news, my neighbours of the ri-".</note>
+                  <note>"Licenced. R. L'Estrange."</note>
+                  <note>Printer's name from Wing CD-ROM, 1996.</note>
+                  <note>In two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political poetry, English --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181394:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>VOX CIVITATIS OR, Londons Call to her Natural and Adopted Children; Exciting them to Her ſpeedy Reedification.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hat News, my Neighbours of the Ri<g ref="char:EOLhyphen"/>ming Trade?</l>
+               <l>What, all by <hi>Londons</hi> Burning quite diſmaid?</l>
+               <l>Has our late too much Heat dry'd up your Well,</l>
+               <l>And choak'd the <hi>Siſters</hi> that there uſ'd to dwell?</l>
+               <l>Or does your ſo much fam'd <hi>Poetick Fire</hi>
+               </l>
+               <l>In <hi>Londons</hi> Conflagration expire?</l>
+               <l>That not one idle Muſe attempts a ſtrain,</l>
+               <l>To promiſe Her Rebuilding up again?</l>
+            </lg>
+            <lg>
+               <l>Call the old <hi>Theban</hi> from his drowſie Tomb,</l>
+               <l>And with his potent Lyre here let him come;</l>
+               <l>And if he ere built <hi>Thebes</hi> (as Poets tell's)</l>
+               <l>Or by his <hi>Muſick</hi> or <hi>Poetick</hi> Spells:</l>
+               <l>Here let him on a worthier Subject try</l>
+               <l>His skill, and <hi>Londons</hi> Walls reedifie.</l>
+               <l>But ſee, the ſullen Ghoſt keeps ſtill its ſtation.</l>
+               <l>Nor yields obedience to our Invocation.</l>
+               <l>Ah! no, that which our Reparation brings,</l>
+               <l>Muſt flow from Real, not Poetick Springs.</l>
+            </lg>
+            <lg>
+               <l>And now, methinks I ſee the aged Head</l>
+               <l>Of <hi>London</hi> Town move from her too warm Bed;</l>
+               <l>And with her parcht tongue ſeeming to eſſay</l>
+               <l>Something to her much ſuff'ring Sons to ſay.</l>
+               <l>'Tis She; Her by her reverend locks I know,</l>
+               <l>With her own Aſhes ſtrow'd inſtead of Snow.</l>
+               <l>She calls to all her Children in each Land;</l>
+               <l>And I her mean Interpreter here ſtand.</l>
+            </lg>
+            <lg>
+               <l>What needs all this aſtoniſhment, my Sons,</l>
+               <l>As if ye were transform'd to liveleſs ſtones?</l>
+               <l>Viewing with ſtupid horror my decay,</l>
+               <l>As though all hopes of Riſe were ta'en away.</l>
+               <l>What frights ye thus? does this ſuch terror ſtrike,</l>
+               <l>As though ye nere had ſeen, nor heard the like?</l>
+               <l>Have not as great Towns heretofore, or greater,</l>
+               <l>Suffer'd ſometimes by Fire, ſometimes by Water?</l>
+               <l>Are not all Bodies ſubject to like Fate?</l>
+               <l>Do not your own of Fire participate</l>
+               <l>In Burning Fevers (pray?) and what are then</l>
+               <l>Dropſies, but Inundations in Men?</l>
+               <l>All things their Seaſons have, and Revolution;</l>
+               <l>And ſhall have till the laſt great Diſſolution.</l>
+               <l>In "all things there's a <hi>Spring,</hi> wherein its youth</l>
+               <l>Sprouts, and ſeems to preſage its future growth:</l>
+               <l>A <hi>Summer</hi> that ſucceeds, when ſtrength arrives</l>
+               <l>To its perfection, and a fulneſs gives:</l>
+               <l>A ſcorching <hi>Autumn</hi> follows, when the pride</l>
+               <l>Of former ſtrength and beauty ſeems to hide</l>
+               <l>It wholly from our ſight: and it may ly</l>
+               <l>Unſeen all <hi>Winter,</hi> ſleeping, yet not dy.</l>
+            </lg>
+            <lg>
+               <l>I, your ſad Mother, in this rank am found;</l>
+               <l>Burnt by the raging Fire almoſt to th' ground:</l>
+               <l>My preſent Fall indeed ſtupendious is,</l>
+               <l>Yet have I riſen from as great as this.</l>
+               <l>Now comes it then that now ſo much time ſees</l>
+               <l>Me in a ſuppliant poſture on my knees?</l>
+               <l>What is the cauſe? ye cann't your Mother blame,</l>
+               <l>VVho ne'er was to her Children a Stepdame;</l>
+               <l>Oh no, 'tis to the Univerſe well known,</l>
+               <l>What Glories I have to my Offsprings won.</l>
+               <l>Here's then the caſe; I ſtill preſerve my ſtate:</l>
+               <l>But ah! I fear my Sons degenerate!</l>
+               <l>If ſo, my tears ſhould from my eyes be skrew'd,</l>
+               <l>Leſs for my Fall, than their Ingratitude.</l>
+            </lg>
+            <lg>
+               <l>I that could once with Laureate Brows have ſung</l>
+               <l>Ceſars and Princes from my intrals ſprung:</l>
+               <l>Have nothing left, my griefs now to decline,</l>
+               <l>But the remembrance that they once were mine.</l>
+               <l>Where are my <hi>Philpots, Walworths, Greſhams, Lambs,</hi>
+               </l>
+               <l>
+                  <hi>Suttons</hi> and <hi>Ramſeys,</hi> with the reſt, whoſe Names</l>
+               <l>Claim'd a bright Rubrick in my Calendar;</l>
+               <l>Glorious for Acts of Virtue near and far?</l>
+               <l>'Tis ſure, they could not die; their Names ſtill live,</l>
+               <l>And their immortal Memories ſurvive</l>
+               <l>The Ruines of their own all-praiſed Deeds.</l>
+               <l>Oh for a Race now that might them ſucceed?</l>
+               <l>And all like them, by happy Tranſmigration;</l>
+               <l>Then might I hope my ſpeedy Reſtauration.</l>
+            </lg>
+            <lg>
+               <l>Rouſe up, my Sons, methinks my Prayer's heard,</l>
+               <l>And you already to my help prepar'd;</l>
+               <l>Warm'd by the ſelf ſame genuine heat and force,</l>
+               <l>Which once did actuate your Anceſtors.</l>
+               <l>Some of our <hi>Heroes</hi> are already met,</l>
+               <l>And to this end in Conſultation ſet:</l>
+               <l>Lay to your helping hands; ſo may you ſee</l>
+               <l>Your ſelves once more to Fame advanc'd with Me:</l>
+               <l>So may we mutually rejoice each other,</l>
+               <l>I in my Glorious Sons, you in your Mother.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenced.</p>
+            <closer>
+               <signed>R. L'Eſtrange.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>B. W.</hi> in Little <hi>S. Bartholomews</hi> Court in <hi>Weſt-Smithfield.</hi> 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
